@@ -1,5 +1,5 @@
 # EyeRoll Proof of Concept 
-Replication "factory" that creates X number of cloned Pacmen
+Creates 5 Eyes and Eye Ball on Browser Screen that move with mouse movement
 <!--Expanded upon by Philip Case based on an MIT XPro class exercise June 2022-->
 
 
