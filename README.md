@@ -2,6 +2,7 @@
 Creates 5 Eyes and Eye Ball on Browser Screen that move with mouse movement
 <!--Expanded upon by Philip Case based on an MIT XPro class exercise June 2022-->
 
+<h3 style="color: red;"> I took creative license to change eye color and  # of Eyes</h3>
 
 <img src="./scrnshot.png" style="max-width: 50%;">
 
